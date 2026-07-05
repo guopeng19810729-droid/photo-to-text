@@ -1,0 +1,7 @@
+interface:
+  display_name: "Photo to Text"
+  short_description: "Prepare photos for OCR text extraction."
+  default_prompt: "Use $photo-to-text to extract clean reusable text from these photographed slides or document images."
+
+policy:
+  allow_implicit_invocation: true
