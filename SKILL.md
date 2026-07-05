@@ -1,9 +1,11 @@
 ---
 name: photo-to-text
-description: Prepare photographed slides, classroom screen photos, document photos, screenshots, or scanned images for reliable OCR text extraction. Use when Codex needs to turn images into clean reusable text before making PPT, Markdown notes, summaries, study materials, or editable documents; especially for Chinese PPT photos where PaddleOCR/Baidu OCR should be preferred over weak offline OCR.
+description: Prepare photographed slides, classroom screen photos, document photos, screenshots, or scanned images for reliable OCR text extraction. Use when Codex needs to turn images into clean reusable text before making PPT, Markdown notes, summaries, study materials, or editable documents; especially for Chinese PPT photos where PaddleOCR/Baidu OCR should be preferred over weak offline OCR. Trigger aliases include "ocr", "拍照转文字", "图片转文字", "照片OCR", "百度OCR", and "识别图片文字".
 ---
 
 # Photo To Text
+
+Common aliases: ocr, 拍照转文字, 图片转文字, 照片OCR, 百度OCR, 识别图片文字.
 
 ## Purpose
 
